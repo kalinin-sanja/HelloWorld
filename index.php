@@ -8,7 +8,7 @@
 
 class main{
 
-    function main($text)
+    function main($text)    //This is a constructor of class
     {
         $a = '!';
         echo $text . $a;
