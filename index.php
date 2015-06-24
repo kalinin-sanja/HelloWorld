@@ -12,5 +12,6 @@ class main{
     {
         $a = '!';
         echo $text . $a;
+        $b = 5;
     }
 }
