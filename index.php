@@ -10,7 +10,7 @@ class main{
 
     function main($text)
     {
-        $a = '!!!';
+        $a = '!';
         echo $text . $a;
     }
 }
